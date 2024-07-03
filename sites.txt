@@ -1,0 +1,5 @@
+https://www.httpbin.org/status/404
+https://www.youtube.com
+https://www.x.com/home
+https://www.instagram.com
+https://www.kabum.com.br
